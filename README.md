@@ -1,8 +1,8 @@
 # InsightCapture
 Advanced Windows activity monitoring tool with screenshot capture, active window tracking, smart storage management, and keyword-based screenshot preservation.
-# SentinelTrack
+# InsightCapture
 
-SentinelTrack is a Python-based desktop activity monitoring and logging utility designed for educational, research, productivity tracking, and digital forensics environments.
+InsightCapture is a Python-based desktop activity monitoring and logging utility designed for educational, research, productivity tracking, and digital forensics environments.
 
 The application records active window activity, captures periodic screenshots, maintains a screenshot storage pool, and intelligently preserves screenshots containing important keywords related to authentication or transaction workflows.
 
@@ -15,7 +15,6 @@ The application records active window activity, captures periodic screenshots, m
 - Smart screenshot retention system
 - Keyword-based screenshot preservation
 - Automatic cleanup of non-important screenshots
-- Emergency stop hotkey (Win + J + J)
 - Session start and end time logging
 
 ## Technologies Used
