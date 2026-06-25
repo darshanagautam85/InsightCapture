@@ -1,0 +1,9 @@
+
+## Requirements
+
+- Python 3.x
+- pyautogui
+- pynput
+- pywin32
+- pillow
+- pytesseract (optional)
